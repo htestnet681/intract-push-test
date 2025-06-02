@@ -5,4 +5,5 @@ it is just for humanity nft
 # Push 3 - Let's go
 # Push 4 - Almost there
 # Push 5 - Done
-#push 6-start
+# Push 6 - start
+
